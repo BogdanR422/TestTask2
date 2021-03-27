@@ -7,6 +7,6 @@ QA Test Project
 \- Download WebDrivers for Chrome and Firefox<br>
 <br>
 1. Open TestTask2 in an IDE (preferably IntelliJ IDEA)
-1. Go to "(path-to-this-project)\TestTask\src\test\resources"
-1. Modify "path.chromedriver" (path to Chrome WebDriver) and "path.geckodriver" (path to Firefox WebDriver)
-1. Open "browser_chrome_test.xml" or "browser_firefox_test.xml" files in IDE and press "Ctrl+Shift+F10" in order to run the Test Suite for corresponding browser.
+2. Go to "(path-to-this-project)\TestTask\src\test\resources"
+3. Modify "path.chromedriver" (path to Chrome WebDriver) and "path.geckodriver" (path to Firefox WebDriver)
+4. Open "browser_chrome_test.xml" or "browser_firefox_test.xml" files in IDE and press "Ctrl+Shift+F10" in order to run the Test Suite for corresponding browser.
